@@ -1,2 +1,0 @@
-# CranberryTea
-Just for fun ;)
