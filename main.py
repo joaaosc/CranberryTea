@@ -3,10 +3,16 @@
 
 import CartographerModule
 
-if __name__ == '__main__':
+if __name__ != '__main__':
     RJ_MAP = CartographerModule.RJ_Map()
     gdf = RJ_MAP.load_map()
     RJ_MAP.plot_map()
+
+
+import sys
+
+sys.stdout.write("Muito obrigado, João Gabriel. "
+                 "Vc eh pica\n")
 
 #     This program is free software: you can redistribute it and/or modify
 #     it under the terms of the GNU General Public License as published by

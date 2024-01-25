@@ -1,4 +1,7 @@
 import geopandas as gpd
+import shapely.geometry
+import mercantile
+import fiona
 import plotly.express as px
 
 

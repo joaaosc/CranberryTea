@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/CranberryTea.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="argv" value="notebook " />
+              <option name="managed" value="true" />
+              <option name="sdkName" value="" />
+              <option name="environmentVariables">
+                <map>
+                  <entry name="JUPYTERVAR" value="http://localhost:8889/token=f54a5bedda940b0f5db4dc17542826a90cef33080806eb94" />
+                </map>
+              </option>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
